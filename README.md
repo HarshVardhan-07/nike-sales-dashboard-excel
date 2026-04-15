@@ -10,7 +10,7 @@ The goal was to transform raw, inconsistent data into a **fully interactive dash
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](image/dashboard.png)
+![Dashboard Preview](Image/dashboard.png)
 
 ---
 
