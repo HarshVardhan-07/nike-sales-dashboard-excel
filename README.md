@@ -47,7 +47,7 @@ The goal was to transform raw, inconsistent data into a **fully interactive dash
 * Grouped data by `Product_Name`
 * Calculated **Median MRP**
 * Merged results back into main dataset
-* Created `MRP_Clean` column
+* Created `MRP` column
 
 ---
 
