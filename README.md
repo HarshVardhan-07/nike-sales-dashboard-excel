@@ -26,32 +26,7 @@ The dashboard was built using **Microsoft Excel**, leveraging **Power Query for 
 * Data Visualization (Charts, Slicers)
 
 ---
-''''
-flowchart LR
 
-A[Cleaned Data] --> B[Pivot Tables]
-B --> C[KPI Cards]
-B --> D[Charts]
-B --> E[Slicers]
-
-D --> F[Revenue by Region]
-D --> G[Monthly Trends]
-D --> H[Discount vs Profitability]
-D --> I[Top Products]
-
-E --> J[Gender Filter]
-E --> K[Region Filter]
-E --> L[Channel Filter]
-
-F --> M[Final Dashboard]
-G --> M
-H --> M
-I --> M
-C --> M
-J --> M
-K --> M
-L --> M
-''''
 ## 🧹 Data Cleaning Process
 
 ### 1. Handling Missing & Incorrect Values
